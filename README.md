@@ -1,16 +1,29 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+# Mobile
+Installer Android Studio
+Ajouter un Emulateur
+Executer le projet Mobile dans Cre project
 
-### What is this repository for? ###
+# Web
+Installer un IDE  (VSC ou WebStorm) 
+Installer un Browser 
+Executer le projet Front-End dans le dossier Care Projec dans A partir de l'IDE
 
-* Quick summary
-WEb and Mobile Application that allow a nursing staff in a medical establishement to do follow up for his patients.
+//Pour tester vous pouvez utiliser  les utilisateurs  suivants:
 
-### How do I get set up? ###
-#
+# role Administrateur du plateforme 
+UserName: admin-care@gmail.com
+PassWord: care
 
+# role Admin d'un etablissement Medical 
+UserName: chum-admin@htmail.montreal.com
+PassWord: care
 
+# role personnel Soignant d'un etablissement Medical 
+UserName: rosemarie-chum@care.com
+PassWord: care
 
-* Repo owner or admin
-* Other community or team contact
+# role patient
+UserName: chum@hotmail.montreal.com
+PassWord: care
