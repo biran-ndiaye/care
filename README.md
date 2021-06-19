@@ -10,6 +10,7 @@ Coordonnateur d’équipe, gestion de l’API, la couche patient et la couche Ad
 
 
 # configuration
+
 # Mobile
 Installer Android Studio
 Ajouter un Emulateur
