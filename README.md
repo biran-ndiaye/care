@@ -1,5 +1,15 @@
 # README #
+# Description
 
+Application web et Mobile permettant la gestion du suivi post-opératoire d’un patient dans un établissement médical (hôpital, clinique dentaire, chimiothérapie…). Une fois que le patient a subi une opération dans un de nos partenaires, le praticien(médecin, docteur,infirmier…) va l’ouvrir un dossier médical et configure le suivi que le patient va devoir selon l’amplitude défini par le médecin. Le patient pourra repondre au suivi ou communiquer avec le personnel soignant en envoyant un message text ou image.
+
+# Technologies 
+Java, Android, Xml JavaScript, NodeJs, React, API Rest, JSON,HTML5, CSS3, Bootstrap, Postgresql, Express Framework, Git, Trello, Methode Agile , Swagger, Heroku, AWS, WebStorm, Android Studio, UML ,diagramme de robustesse.
+# Responsabilité  : 
+Coordonnateur d’équipe, gestion de l’API, la couche patient et la couche Administrateur du plateforme.
+
+
+# configuration
 # Mobile
 Installer Android Studio
 Ajouter un Emulateur
